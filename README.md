@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
  Kyungpook National University, Deagu
+</div>
  ----
- #### Once I've Used
+ #### <div align="center">Once I've Used
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
