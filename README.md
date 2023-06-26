@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">Kyungpook National University, Deagu</div>
+## <div align="center">Kyungpook National University, Deagu</div>
 
 ---
 #### <div align="center">Once I've Used</div>
