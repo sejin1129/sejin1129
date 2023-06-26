@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
  Kyungpook National University, Deagu
  --------------------
-#### <center>Once I've Used</center>
+#### {: .text-center}Once I've Used
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
